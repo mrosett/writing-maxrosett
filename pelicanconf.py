@@ -1,7 +1,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Max Rosett'
-SITENAME = 'Max Rosett: Articles, Essays, and Musings'
+SITENAME = 'Max Rosett'
+SITEDESCRIPTION = 'Articles, Essays, and Musings'
 SITEURL = ''
 
 PATH = 'content'
@@ -17,12 +18,13 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 DEFAULT_PAGINATION = 10
+DISPLAY_CATEGORIES_ON_MENU = False
+
+THEME = '/Users/maxrosett/Github/medius'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
