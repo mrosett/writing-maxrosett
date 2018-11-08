@@ -1,1 +1,4 @@
 wenv
+*.code-workspace
+.vscode
+__pycache__
