@@ -1,0 +1,40 @@
+Title: Book Review: _The Elephant in the Brain_
+Subtitle: 
+Date: 2018-02-10 12:00
+Tags: books, psychology, rationality
+Slug: book-review-elephant-in-the-brain
+Authors: Max Rosett
+
+This book convincingly demonstrates that we humans constantly deceive others and ourselves alike in the service of our own selfish motives. What's less clear is what implications follow from that.
+
+The book is divided into two sections. The first lays out the immense array of ways in which humans are selfish, deceitful animals. We're in a constant struggle with each other for status, sex, and supporters, and in fact our cognitive abilities probably evolved to help us in that struggle (rather than to help us deal with non-human threats.) We lie, cheat, manipulate, and so on while working hard to rationalize our own motives.  The arguments are compelling and well-written, with lots of analogies drawn between our behavior and the behavior of various animals.  The authors' perspective is Hobbesian, except they don't think that civilization has really done much to civilize us.
+
+Hanson and Simler then argue that the first victim of the brain's deception is itself, and again they present compelling evidence. For instance, (split-brain patients)[https://en.wikipedia.org/wiki/Split-brain] who have their motives hidden from them develop false rationalizations on the fly. They take things a step further, though, arguing that the purpose of our self-deceit is to better deceive others:
+
+> Our brains are built to act in our self-interest while at the same time trying hard not to appear selfish in front of other people. And in order to thrown them of the trail, our brains often keep "us," our conscious minds, in the dark. The less we know of our own ugly motives, the easier it is to hide them from others.
+
+This is a radical claim, but they're not able to marshal much hard evidence to support it. As they acknowledge, the theory was first proposed more than 40 years ago, and while it's intriguing, it's hard incontrovertible. Their efforts to demonstrate it end up feeling like a "just-so" story.
+
+Having argued for the primacy of hidden motives, the authors spend the second half of the book examining how that impacts everyday life. The have chapters on education, conversation, and the healthcare system. Portions of this second section are insightful, but others are less compelling.
+
+Take the example of healthcare. The authors convincingly argue that health care is not, as most people say, simply about getting healthy.  Under what they term the "conspicuous caring hypothesis", much of healthcare is a performative attempt to show support for someone who is unwell. Thus we spend far too much on spectacular interventions and end-of-life care while dismissing non-medical interventions (like improving air quality) that are far more cost-effective. Healthcare does make people healthier, they allow, but the demand for conspicuous caring induces tremendous inefficiences.
+
+They view this last point as cause for optimism:
+
+> This may sound like pessimism, but it's actually great news. However flawed our institutions may be, we're already living with them--and life, for most of us, is pretty good. So if we can accurately diagnose what's holding back our institutions, we may finally succeed in reforming them, thereby making our lives even better. 
+
+That strikes me as precisely backwards. It's well known that there's a lot of medical spending that doesn't seem to improve health. If the only purpose of the medical system were to make people healthy, then we might have a path to cutting  spending while simultaneously impoving outcomes. But if what patients genuinely want is to feel like extravagant effort is being put into taking care of them... well, then we have a less tractable problem. 
+
+Of course, it's not clear that the purpose of the healthcare system *should* be to improve healthcare outcomes, narrowly defined. When I had melanoma, my goal was to recover to full health, and to that end I was treated by two oncologists. One was consistently empathetic, and even when he delivered bad news I felt empowered. The other casually suggested that my disease may have returned and then left the room without so much as a comforting word. (Twenty minutes later, a nurse was surprised to find me still in the room and said I could leave.) I have no way of knowing which physician is better in the narrow, technical sense. But assume the latter is slightly superior. Would it be wrong of me to still prefer the former, even if that ran contrary to my stated goal? Or, to take it a step further: If presented with evidence that the unpleasant oncologist was the superior clinician, I'd probably rationalize it away to avoid cognitive discord. Does that action invalidate my preference?
+
+Mind you, there's plenty of waste in the healthcare system, and we should work hard to remove that. But effort that doesn't align with the stated (or perhaps straw-manned) purpose of the institution is not inherently wasted effort. Conversely, the cause of waste isn't necessarily hidden motives. Healthcare spending in the US is a) tax-deductible, b) paid for in ways that lead to zero marginal cost to consumers as the consume tremendous resources and c) incredibly opaquely priced. _Of course_ there's going to be a lot of waste!
+
+It's easy to demonstrate that someone's revealed preferences differ from what they tell you. You can even demonstrate that those preferences are inconsistent and irrational. It's much harder to tell them that their preferences are _wrong_. We still do it often enough, and at times it's justifiable, but the barrier is much higher than simply demonstrating irrationality. Simler and Hanson assume that being healthy is a rational goal and wanting conspicuous caring is irrational, but why is that?
+
+There's value to recognizing the disparity between the stated purpose of an institution and its actual purpose. Economists have long argued that education is mostly about signaling rather than, you know, education. This has big policy implications. For instance, subsizing college education makes a lot of sense if you think it develops human capital. It makes a lot less sense if you see education as a sorting exercise. 
+
+But this can only take you so far. The book demonstrates that education isn't really about education; it's some strange mix of signaling, sorting, babysitting, and a dating service, perhaps all hosted on the grounds of a vaguely related research facility. You can eliminate those superfluous components and deliver the education itself at a fraction of the cost, and that's great! (It's how I got my MS from Georgia Tech, in fact.) It turns out, though, that society largely wants college to have all of those pieces. Professors, lawmakers, and students all deceive themselves by talking about "education" when they really mean a bunch of things that aren't education. But if we all deceive ourselves in the same way, doesn't that induce a strange consistency? We can go on building the institution we actually want, regardless of if it matches our stated purpose.
+
+Ultimately, the book is most compelling as a tool for examining your own thoughts. You already know that you deceive to others about your motives. With a bit more introspection, you can understand how you're deceiving yourself. In the conclusion, the authors advocate for the philosophy of "enlightened self-interest" which calls to acknowledge your own selfish motives and harness them to do genuine good. I wish they'd developed that theme further; I think the philosophical implications of hidden motives are more compelling than the implications for institutions like healthcare and education.
+
+In that spirit, I should examine my own motives for writing this post. I tell myself that a) I enjoy writing and b)I want to share my thoughts with others. Digging deeper on b), a more precise framing is "share my thoughts with others so that they'll raise my status appropriately." There may be deeper motives as well, but for now they remain opaque to me.
