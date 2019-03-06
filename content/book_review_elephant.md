@@ -1,15 +1,15 @@
-Title: Book Review: _The Elephant in the Brain_
+Title: Book Review: The Elephant in the Brain
 Subtitle: 
-Date: 2018-02-10 12:00
+Date: 2019-02-10 12:00
 Tags: books, psychology, rationality
 Slug: book-review-elephant-in-the-brain
 Authors: Max Rosett
 
 This book convincingly demonstrates that we humans constantly deceive others and ourselves alike in the service of our own selfish motives. What's less clear is what implications follow from that.
 
-The book is divided into two sections. The first lays out the immense array of ways in which humans are selfish, deceitful animals. We're in a constant struggle with each other for status, sex, and supporters, and in fact our cognitive abilities probably evolved to help us in that struggle (rather than to help us deal with non-human threats.) We lie, cheat, manipulate, and so on while working hard to rationalize our own motives.  The arguments are compelling and well-written, with lots of analogies drawn between our behavior and the behavior of various animals.  The authors' perspective is Hobbesian, except they don't think that civilization has really done much to civilize us.
+The book is divided into two sections. The first lays out the immense array of ways in which humans are selfish, deceitful animals.  The authors' perspective is Hobbesian, except they don't think that civilization has really done much to civilize us. We're in a constant struggle with each other for status, sex, and supporters, and in fact our cognitive abilities probably evolved to help us in that struggle (rather than to help us deal with non-human threats.) We lie, cheat, manipulate, and so on while working hard to rationalize our own motives.  The arguments are compelling and well-written, with lots of analogies drawn between our behavior and the behavior of various animals. They do seem to view all forms of signaling as somehow dishonest, which is strange. After all, signals contain information!
 
-Hanson and Simler then argue that the first victim of the brain's deception is itself, and again they present compelling evidence. For instance, (split-brain patients)[https://en.wikipedia.org/wiki/Split-brain] who have their motives hidden from them develop false rationalizations on the fly. They take things a step further, though, arguing that the purpose of our self-deceit is to better deceive others:
+Hanson and Simler then argue that the first victim of the brain's deception is itself, and again they present compelling evidence. For instance, [split-brain patients](https://en.wikipedia.org/wiki/Split-brain) who have their motives hidden from them develop false rationalizations on the fly. They take things a step further, though, arguing that the purpose of our self-deceit is to better deceive others:
 
 > Our brains are built to act in our self-interest while at the same time trying hard not to appear selfish in front of other people. And in order to thrown them of the trail, our brains often keep "us," our conscious minds, in the dark. The less we know of our own ugly motives, the easier it is to hide them from others.
 
