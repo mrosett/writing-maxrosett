@@ -1,11 +1,11 @@
 Title: Seeing Like a Search Engine
-Subtitle: If Sites Are Paying for Organic Placements, Why Shouldn't Google Get That Money?
+Subtitle: How Google's Quest for Legibility is Reshaping the Web
 Date: 2020-01-25 20:00
 Tags: google, seo, books,
 Slug: seeing-like-a-search-engine
 Authors: Max Rosett
 
-James Scott’s “Seeing Like a State” is a fascinating account of how centralization schemes fail. The book’s title follows from a simple observation: centralized administrators need legibility to function. A state can’t collect taxes unless it knows who its citizens are and how much income they’re generating. A forester needs to know what trees are in the forest in order to extract lumber from it. The concept seems trivial but articulating the need for legibility facilitates clear thinking.
+James Scott’s [“Seeing Like a State”](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153) is a fascinating account of how centralization schemes fail. The book’s title follows from a simple observation: centralized administrators need legibility to function. A state can’t collect taxes unless it knows who its citizens are and how much income they’re generating. A forester needs to know what trees are in the forest in order to extract lumber from it. The concept seems trivial but articulating the need for legibility facilitates clear thinking.
 
 Of course, the organic, natural state of things tends not to be legible. It’s hard to know what’s going on in a forest (not to mention a whole country.) In practice, administrators handle limited legibility in three ways:
 
@@ -21,7 +21,9 @@ The third approach may be the most destructive of all. To again use a forestry e
 
 The governmental analogy is obvious. Soviet production quotas invariably failed to capture important qualities of the products that were being produced. As a result, they were endlessly gamed. Perhaps the best-known story is of a nail factory producing gigantic, useless nails to achieve a production target measured in tons. While that example appears to be apocryphal, others are [well-documented](https://skeptics.stackexchange.com/questions/22375/did-a-soviet-nail-factory-produce-useless-nails-to-improve-metrics), and as a more general rule Soviet products were hardly known for their quality.
 
-As I discussed the book with the friends who recommended it, my one complaint was that the analysis draws heavily on examples from two domains, forestry and government central planning, and I would have liked to see examples in other contexts. And then it struck me that the most obvious example was right in front of me.
+The entire book is interesting, and I recommend that you read it (or at least read a more thorough summary of it, like [Venkatesh Rao's](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/) or [Scott Alexander's](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/).) As I discussed the book with the friends who recommended it, my one complaint was that the analysis draws heavily on examples from two domains, forestry and government central planning, and I would have liked to see examples in other contexts. And then it struck me that the most obvious example was right in front of me.
+
+### What does this have to do with Google?
 
 Scott published his book in 1998, which is the year that Google was founded. Like a state or a forester, Google requires a high degree of legibility to deliver its tremendously useful service. Fortunately for Google, the internet is inherently more legible than the real world, and so they were able to successfully build the early version of their search engine without any need to reshape the internet into legible form. For the briefest of moments, Google was just another observer with no real power to shape the rest of the internet.
 
