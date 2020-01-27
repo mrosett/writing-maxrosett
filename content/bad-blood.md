@@ -1,0 +1,2 @@
+John Carreyou's *Bad Blood* hits uncomfortably close to home, and I mean that in a literal sense. The entire book (almost) took place within a few miles of where I lived in Menlo Park, and I'm very familiar with specific locations the author mentions (like Coupa Cafe and The Rosewood.) Most of all, Theranos's office was directly across the street from the office where my wife worked for three years.
+
